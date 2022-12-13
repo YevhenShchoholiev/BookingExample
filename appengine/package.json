@@ -16,7 +16,7 @@
     "@google-cloud/pubsub": "^2.1.0",
     "axios": "^0.19.2",
     "dateformat": "^3.0.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "googleapis": "^52.1.0"
   },
   "devDependencies": {
